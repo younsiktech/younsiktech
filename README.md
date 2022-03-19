@@ -4,7 +4,7 @@
 ![Followers](https://img.shields.io/github/followers/younsiktech?style=social)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=younsiktech&show_icons=true&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=younsiktech&langs_count=8&layout=comapct)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=younsiktech&langs_count=8&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
